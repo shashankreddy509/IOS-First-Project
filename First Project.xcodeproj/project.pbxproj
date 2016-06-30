@@ -491,6 +491,7 @@
 				05E7B81C1D20EA490006A38B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05E7B81D1D20EA490006A38B /* Build configuration list for PBXNativeTarget "First ProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +500,7 @@
 				05E7B81F1D20EA490006A38B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		05E7B8201D20EA490006A38B /* Build configuration list for PBXNativeTarget "First ProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +509,7 @@
 				05E7B8221D20EA490006A38B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
